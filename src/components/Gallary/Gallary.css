@@ -1,0 +1,4 @@
+.hello:hover > img{
+    transform: scale(1.25);
+    transition: 1000ms;
+}
